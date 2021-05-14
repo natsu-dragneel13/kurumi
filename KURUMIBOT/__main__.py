@@ -73,7 +73,7 @@ TOKISAKI_IMG = "https://telegra.ph/file/99bbcc3b8564804dc2ab0.jpg"
 KURUMI_IMG = "https://telegra.ph/file/e1d87ec2bdac4e3cfe0a4.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Click here to donate in [Paypal](https://www.paypal.me/zameeljaz)"""
+but you don'thabe to do that """
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -200,18 +200,18 @@ def start(update: Update, context: CallbackContext):
                              text="🚨 Support 🚨",
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
-                             text="My luv ❤",
-                             url="https://t.me/A_lonelyPerson")
+                             text="My anime channel ❤",
+                             url="https://t.me/Mirai_Anime_En")
                     ], 
                      [
                          InlineKeyboardButton(
                              text="🔔 Updates of KURUMI 🔔",
-                             url="https://t.me/hiroiscool")
+                             url="https://t.me/KURUMIBOT_SUPPORT")
                     ], 
                      [
                          InlineKeyboardButton(
                              text="📳 Anime Chat Group 📳",
-                             url="https://t.me/WeebXWorld")
+                             url="https://t.me/Mirai_Anime_00")
                     ]]))
                      
                     
@@ -490,7 +490,7 @@ def donate(update: Update, context: CallbackContext):
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True)
 
-        if OWNER_ID != 254318997 and DONATION_LINK:
+        if OWNER_ID != 1304672022 and DONATION_LINK:
             update.effective_message.reply_text(
                 "You can also donate to the person currently running me "
                 "[here]({})".format(DONATION_LINK),
