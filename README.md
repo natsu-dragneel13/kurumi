@@ -4,11 +4,11 @@
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)!]
 
 
-A modular Telegram Group Management bot made using [KURUMI Chan](https://t.me/Kurumi_0bot) as base repo.
+A modular Telegram Group Management bot made using [KURUMI Chan](https://t.me/kurumi_tokisaki_00_bot) as base repo.
 
 Can be found on telegram as [KURUMI Chan](https://t.me/kurumi_tokisaki_00_bot).
 
-The Support group can be reached out to at [KURUMI Support](https://t.me/kurumi_BOT_SUPPORT), where you can ask for help about [KURUMI Chan](https://t.me/Kurumi_0bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [KURUMI Support](https://t.me/kurumi_BOT_SUPPORT), where you can ask for help about [KURUMI Chan](https://t.me/kurumi_tokisaki_00_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
