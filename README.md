@@ -6,9 +6,9 @@
 
 A modular Telegram Group Management bot made using [KURUMI Chan](https://t.me/Kurumi_0bot) as base repo.
 
-Can be found on telegram as [KURUMI Chan](https://t.me/Kurumi_0bot).
+Can be found on telegram as [KURUMI Chan](https://t.me/kurumi_tokisaki_00_bot).
 
-The Support group can be reached out to at [KURUMI Support](https://t.me/kurumisupport), where you can ask for help about [KURUMI Chan](https://t.me/Kurumi_0bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [KURUMI Support](https://t.me/kurumi_BOT_SUPPORT), where you can ask for help about [KURUMI Chan](https://t.me/Kurumi_0bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
@@ -52,8 +52,8 @@ An example `config.py` file could be:
 from KURUMIBOT.sample_config import Config
 
 class Development(Config):
-    OWNER_ID = 254318997  # your telegram ID
-    OWNER_USERNAME = "SonOfLars"  # your telegram username
+    OWNER_ID = 1304672022  # your telegram ID
+    OWNER_USERNAME = "CAT_Bot_01"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     JOIN_LOGGER = '-1234567890' # some group chat that your bot is a member of
