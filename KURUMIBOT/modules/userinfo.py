@@ -290,7 +290,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' [<a href="https://t.me/hiroiscool/3">?</a>]'.format(
+        text += ' [<a href="https://t.me/KURUMIBOT_SUPPORT/4">?</a>]'.format(
             bot.username)
 
     try:
@@ -516,7 +516,7 @@ Examples:
  • `/info`*:* get information about a user. 
  
 *What is that health thingy?*
- Come and see [HP System explained](https://t.me/OnePunchUpdates/192)
+ Come and see [HP System explained](https://t.me/KURUMIBOT_SUPPORT/16)
 """
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio)
