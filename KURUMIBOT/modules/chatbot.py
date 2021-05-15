@@ -150,7 +150,7 @@ Chatbot utilizes the CoffeeHouse API and allows Saitama to talk and provides a m
  • `/addchat`*:* Enables Chatbot mode in the chat.
  • `/rmchat`*:* Disables Chatbot mode in the chat.
 
-Reports bugs at @kurumi_BOT_SUPPORT
+Reports bugs at @kurumi\_BOT\_SUPPORT
 Powered by [CoffeeHouse](https://coffeehouse.intellivoid.net/) from @Intellivoid
 """
 
