@@ -165,10 +165,10 @@ Note: the restart bat requires that User account control be disabled.
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirojazz/KURUMIBOT.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/natsu-dragneel13/KURUMI.git) 
 
 
 ## Credits
-The bot is based on the original work done by [Hirojazz](https://github.com/Hirojazz) also futher development done by KURUMI Chan creator.
+The bot is based on the original work done by [gray](https://github.com/natsu-dragneel13) also futher development done by KURUMI Chan creator.
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
