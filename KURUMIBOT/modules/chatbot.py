@@ -70,17 +70,17 @@ def remove_chat(update: Update, context: CallbackContext):
 
 def check_message(context: CallbackContext, message):
     reply_msg = message.reply_to_message
-    if message.text.lower() == "makise":
+    if message.text.lower() == "kurumi":
         return True
-    if message.text.lower() == "kurisu":
+    if message.text.lower() == "tokisaki":
         return True
-    if message.text.lower() == "kurisu makise":
+    if message.text.lower() == "kurumi tokisaki":
         return True
     if message.text.lower() == "hi":
         return True
     if message.text.lower() == "hello":
         return True
-    if message.text.lower() == "ohayo":
+    if message.text.lower() == "كورومي":
         return True
     if message.text.lower() == "bye":
         return True
